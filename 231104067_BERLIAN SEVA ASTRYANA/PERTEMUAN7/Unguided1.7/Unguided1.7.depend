@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1732025507 source:d:\semester 3\praktikum struktur data\unguided1.7\main.cpp
+	<iostream>
+	<stack>
+	<string>
+
